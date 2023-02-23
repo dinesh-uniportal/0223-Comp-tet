@@ -1,0 +1,8 @@
+site_name: "0223 Comp"
+site_description: "0223 Comp"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
